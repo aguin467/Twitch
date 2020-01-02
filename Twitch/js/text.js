@@ -1,7 +1,7 @@
 var embed = new Twitch.Embed("twitch-embed", {
     width: 854,
     height: 480,
-    channel: "Twitch Streamer Name",
+    channel: "Your Favorite Twitch Streamer's Name",
     layout: "video",
     autoplay: false
   });
